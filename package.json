@@ -1,6 +1,7 @@
 {
   "name": "parse-investments-api",
   "version": "1.0.0",
+  "type": "module",     
   "dependencies": {
     "uuid": "latest"
   }
